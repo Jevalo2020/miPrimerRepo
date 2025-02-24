@@ -4,4 +4,6 @@ Mi primer repositorio. yujuuu!
 
 Mi primera contribucion local para Github
 
-ommit mas desde github
+commit mas desde github
+
+una actualizacion mas
